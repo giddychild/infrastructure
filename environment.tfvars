@@ -1,0 +1,7 @@
+region = "us-east-1"
+vpc_cidr = "10.0.0.0/16"
+public_subnet_1a_cidr = "10.0.16.0/25"
+public_subnet_1b_cidr = "10.0.0.0/25"
+ec2_instance_type_1 = "t2.small"
+ec2_server_ami_1 = "ami-0261755bbcb8c4a84"
+key_pair = "infrastructure"
